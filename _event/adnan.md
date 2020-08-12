@@ -5,7 +5,6 @@ imageHeaderDescription: Hello
 endMessage: What are you waiting for
 eventURL: https://www.globalviews360.com/
 contactForHelp: ddd
-published: false
 
 ---
 hhgfgf
