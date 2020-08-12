@@ -5,6 +5,7 @@ imageHeaderDescription: "logo for designathon"
 endMessage: "what are you waiting for?"
 eventURL: "https://globalviews360.com"
 contactForHelp: "<a href="#">Adnan Abbasi</a>"
+
 ---
 Dear Abc,
 Hello jdjdjdjdd
