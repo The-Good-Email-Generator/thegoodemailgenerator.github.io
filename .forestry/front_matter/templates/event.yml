@@ -7,16 +7,16 @@ fields:
   label: title
 - type: file
   name: imageHeaderImage
-  label: imageHeaderImage
+  label: Header Image
 - type: text
   name: imageHeaderDescription
-  label: imageHeaderDescription
+  label: Image Description
 - type: text
   name: endMessage
-  label: endMessage
+  label: End Message
 - type: text
   name: eventURL
-  label: eventURL
+  label: Event Link
 - type: text
   name: contactForHelp
-  label: contactForHelp
+  label: Contact Details
