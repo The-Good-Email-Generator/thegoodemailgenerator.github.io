@@ -1,3 +1,9 @@
-{% for event_item in site.event %}
-    <a class="link text-decoration-none" href="{{ event_item.url }}">{{ event_item.title }}</a>
-{% endfor %}
+---
+layout: header
+title: Welcome to The Book Project
+---
+<body>
+    {% for event_item in site.event %}
+        <a class="link text-decoration-none" href="{{ event_item.url }}">{{ event_item.title }}</a>
+    {% endfor %}
+</body>
