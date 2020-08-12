@@ -2,6 +2,13 @@
 label: Event
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: layout
+  default: event
 - type: text
   name: title
   label: title
