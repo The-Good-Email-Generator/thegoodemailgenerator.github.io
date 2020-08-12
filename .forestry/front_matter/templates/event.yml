@@ -1,0 +1,22 @@
+---
+label: Event
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: imageHeaderImage
+  label: imageHeaderImage
+- type: text
+  name: imageHeaderDescription
+  label: imageHeaderDescription
+- type: text
+  name: endMessage
+  label: endMessage
+- type: text
+  name: eventURL
+  label: eventURL
+- type: text
+  name: contactForHelp
+  label: contactForHelp
