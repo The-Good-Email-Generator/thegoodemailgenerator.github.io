@@ -7,6 +7,5 @@ imageHeaderDescription: Lord Ganesh image
 endMessage: ''
 eventURL: ''
 contactForHelp: ''
-published: false
 
 ---
