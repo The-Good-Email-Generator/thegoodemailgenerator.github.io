@@ -8,7 +8,6 @@ imageHeaderDescription: Image on gaming 123
 endMessage: Want to play games?
 eventURL: https://www.globalviews360.com/articles/will-cloud-gaming-take-over-the-video-gaming-world
 contactForHelp: ''
-published: false
 
 ---
 Google has taken the lead in cloud gaming service by launching “Stadia'', followed by Nvidia with “GeForce Now”. Microsoft, which is one of the heavy-hitters of console gaming via their Xbox series, is shortly launching their cloud gaming service [xCloud](https://www.theverge.com/2020/7/16/21326797/microsoft-xcloud-launch-xbox-game-pass-ultimate-free) for Android in 22 countries. So anyone with an Android phone and Xbox Game Pass Ultimate subscription, can enjoy the high quality online games on their smartphone.
