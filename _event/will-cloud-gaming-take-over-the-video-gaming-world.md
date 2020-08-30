@@ -3,7 +3,7 @@ title: Will Cloud Gaming take over the video gaming world?
 quotation: "“Games give you a chance to excel, and if you're playing in good company
   you don't even mind if you lose because you had the enjoyment of the company during
   the course of the game.” ― Gary Gygax "
-imageHeaderImage: "/uploads/a-xenobot-in-simulation-and-reality.png"
+imageHeaderImage: "/uploads/tenor.gif"
 imageHeaderDescription: Image on gaming 123
 endMessage: Want to play games?
 eventURL: https://www.globalviews360.com/articles/will-cloud-gaming-take-over-the-video-gaming-world
